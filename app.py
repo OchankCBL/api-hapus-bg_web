@@ -103,4 +103,20 @@ if file_gambar is not None:
 
 # Footer
 st.write("---")
+
+# TEKNIK SEO SEDERHANA: MENAMBAHKAN TEKS BACAAN
+with st.expander("ℹ️ Cara Menggunakan & Tanya Jawab (FAQ)"):
+    st.markdown("""
+    ### Cara Menghapus Background Foto Online Gratis
+    1. **Upload Foto:** Pilih foto JPG atau PNG dari galeri HP atau komputer Anda.
+    2. **Tunggu Proses:** AI canggih kami akan memisahkan objek dari latar belakang dalam hitungan detik.
+    3. **Download:** Unduh hasil foto transparan (PNG) kualitas HD.
+    
+    ### Kenapa Menggunakan Alat Ini?
+    - **Gratis Selamanya:** Tidak perlu bayar langganan mahal.
+    - **Tanpa Watermark:** Hasil bersih untuk jualan di Shopee/Tokopedia.
+    - **Cepat:** Tidak perlu skill Photoshop.
+    
+    Alat ini cocok untuk: Reseller, UMKM, Fotografer, dan Pembuat Konten Instagram/TikTok.
+    """)
 st.caption("Dibuat dengan ❤️ menggunakan Python & Streamlit")
